@@ -28,15 +28,14 @@ Showcase  web development, AI, and other academic projects with descriptions and
 📜 Certifications
 
 * Accenture Developer and Technology Virtual Experience Programme
-* Ethical Hacking Certification
+* Software Testing
 * Blockchain Certification
-* Other relevant certifications
 
 📫 Contact
 
 Feel free to connect with me:
 
-* ✉️ Email: [samikshakhalse9@gmail.com](mailto:samikshakhalse9@gmail.com)
+* ✉️ Email: [sameekshakhalse08@gmail.com](mailto:sameekshakhalse08@gmail.com)
 * 🔗 LinkedIn: [Sameeksha Khalse](https://www.linkedin.com/in/sameeksha-khalse-32401227b/)
 * 💻 GitHub: [Samiksha2707](https://github.com/Samiksha2707)
 
